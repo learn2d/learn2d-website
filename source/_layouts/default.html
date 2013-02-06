@@ -1,6 +1,13 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
 <body {% if page.body_id %}id="{{ page.body_id }}" {% endif %}>
+  <div class="github-fork-ribbon-wrapper right">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/learn2d/learn2d">
+        Fork me on GitHub
+      </a>
+    </div>
+  </div>
   <header role="banner" id="sidebar">
     {% include custom/sidebar.html %}
   </header>

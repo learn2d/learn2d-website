@@ -113,9 +113,9 @@ header#sidebar h1#title {
   border-left: 1px solid #e3e3e3;
   margin-left: 27%;
   min-height: 900px;
-  min-width: 658px;
+  min-width: 500px;
   position: relative;
-  z-index: 9999;
+  z-index: 9000;
 }
 
 header#sidebar h1#title a {
@@ -267,6 +267,8 @@ header#sidebar h2#subtitle {
     padding-top: 30px;
     padding-bottom: 15px;
     overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   article.post figure {
@@ -283,6 +285,7 @@ header#sidebar h2#subtitle {
 // Articles
 article.post {
   width: auto;
+  max-width: 500px;
   position: relative;
   padding-left: 50px;
   padding-top: 40px;
