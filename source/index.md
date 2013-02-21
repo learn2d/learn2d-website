@@ -13,8 +13,9 @@ Learn2D is an educational programming platform to teach students how to program
 and play 2D multiplayer games.
 
 > "The read–eval–print loop (REPL) is one of the most powerful ways to learn a
-> programming language. Learn2D's 2D Canvas support takes it a step further. The
-> cloud development IDE is  the icing on the cake." - Nobody
+> programming language. Learn2D's HTML Canvas 2D support takes it a step
+> further. Learn2D's
+> cloud development IDE is the fastest way to learn to program." - Chris M. Welsh
 
 We are still in alpha but here is a screenshot of the client running on Safari
 on iPhone 4S with multiple players connected:
