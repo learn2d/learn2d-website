@@ -5,7 +5,7 @@ comments: false
 sharing: false
 footer: false
 ---
-Please [play Learn2D](http://www.learn2d.com/play) and let me know how it works
+Please [play Learn2D](https://www.learn2d.com/play) and let me know how it works
 for you on IRC at #learn2d on irc.freenode.com. Make sure to get a couple
 friends on there so you can walk around together. Chat support is coming soon.
 
