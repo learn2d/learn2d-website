@@ -6,7 +6,8 @@ comments: true
 ---
 This is the new blog of the Learn2D project. Learn2D is a browser-based multiplayer game development platform. It allows players to create and customize games inside their browser.
 
-The default perspective will be similar to an old SNES game, The Legend of Zelda: A Link to the Past. This perspective is often called "birds-eye view". It's the same kind of camera angle used by early Ultima, Final Fantasy, and Pokemon games. Learn2D will only initially support games using birds-eye view. It's very easy to create pixel art for this perspective.
+The default perspective will be similar to an old SNES game, "The Legend of Zelda: A Link to the Past"
+. This perspective is often called "birds-eye view". It's the same kind of camera angle used by early Ultima, Final Fantasy, and Pokemon games. Learn2D will only initially support games using birds-eye view. It's very easy to create pixel art for this perspective.
 
 The coordinate system in Learn2D will be 2D, with a limited z-axis to use for graphical effects and projectiles. Limiting the engine to 2D will greatly reduce complexity. I'd like to eventually have multiple client implementations. At the moment, the browser client (currently working on all standards-compliant desktop web browsers) is the primary platform. Keeping the engine simple will make it easier to port the client to new platforms.
 
