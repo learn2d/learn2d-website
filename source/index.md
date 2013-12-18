@@ -20,8 +20,8 @@ and play 2D multiplayer games.
 We are still in alpha but here is a screenshot of the client running on Safari
 on iPhone 4S with multiple players connected:
 
-{% img http://i.imgur.com/30o4xh1.png %}
+{% img https://i.imgur.com/30o4xh1.png %}
 
 Interested in sponsoring development? This project is an open-source,
 educational research endeavor by Chris M. Welsh. If you'd like to contribute
-to Learn2D please tweet [@chrismwelsh](http://twitter.com/chrismwelsh).
+to Learn2D please tweet [@chrismwelsh](https://twitter.com/chrismwelsh).

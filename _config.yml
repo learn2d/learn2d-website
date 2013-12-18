@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://learn2d.com
+url: https://www.learn2d.com
 title: Learn2D
 subtitle: Learn 2D Development
 author: Chris M. Welsh
@@ -10,7 +10,7 @@ description: Learn 2D Canvas Development Today With Learn2D
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
-# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
+# https://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
 date_format: "ordinal"
 
@@ -24,7 +24,7 @@ email:
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-# If publishing to a subdirectory as in http://site.com/project set 'root: /project'
+# If publishing to a subdirectory as in https://site.com/project set 'root: /project'
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
@@ -76,7 +76,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: 
+googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
